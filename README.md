@@ -1,3 +1,3 @@
-# Aview Coding Challenge
+# Deerhacks Landing Page
 
-[Live Preview](https://aview-challenge.vercel.app/)
+[Live Preview](https://deerhacks-landing-page.vercel.app/)
